@@ -6006,23 +6006,23 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #D2E59E !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #0062cc !important;
+  background-color: #DAE9AF !important;
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #8A897C !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #545b62 !important;
+  background-color: #B4B3AB !important;
 }
 
 .bg-success {
