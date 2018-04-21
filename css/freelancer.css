@@ -348,7 +348,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-image {
-  background-image:url("../img/bscreen.png");
+  background-image:url("../img/bscreen.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
